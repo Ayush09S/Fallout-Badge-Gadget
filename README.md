@@ -30,3 +30,4 @@ The PCB can also activate LEDs that turn on through a switch. It is important to
 # Special Thanks
 Hack Club! Thank you for running Fallout and all the other incredible Hack Club events.
 My Team! Lina and Kade are awesome and I can't wait to work with them for the rest of the event.
+Thanks to Lina for reviewing my project too!
